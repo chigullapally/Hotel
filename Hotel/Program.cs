@@ -18,6 +18,7 @@ namespace Hotel
             while(choice != 5)
             {
                 Console.WriteLine("select the menu below:\n1.Idli - 30/-\n2.Dosa-40/-\n3.Vada-45/-\n4.PavBaji-60/-\n5.Exit");
+                Console.WriteLine("Welcome to Hotel");
                 int total = 0;
                 if (int.TryParse(Console.ReadLine(), out choice))
                 {
