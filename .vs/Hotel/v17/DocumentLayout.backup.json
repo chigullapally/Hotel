@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chigu\\OneDrive\\Desktop\\C# Practice\\Hotel\\",
+  "WorkspaceRootPath": "C:\\Users\\chigu\\Hotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{764FDA9C-78B4-422F-977D-1E6779E8598F}|Hotel\\Hotel.csproj|c:\\users\\chigu\\onedrive\\desktop\\c# practice\\hotel\\hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{764FDA9C-78B4-422F-977D-1E6779E8598F}|Hotel\\Hotel.csproj|c:\\users\\chigu\\hotel\\hotel\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{764FDA9C-78B4-422F-977D-1E6779E8598F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{764FDA9C-78B4-422F-977D-1E6779E8598F}|Hotel\\Hotel.csproj|C:\\Users\\chigu\\Hotel\\hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{764FDA9C-78B4-422F-977D-1E6779E8598F}|Hotel\\Hotel.csproj|solutionrelative:hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chigu\\OneDrive\\Desktop\\C# Practice\\Hotel\\Hotel\\Program.cs",
-              "RelativeDocumentMoniker": "Hotel\\Program.cs",
-              "ToolTip": "C:\\Users\\chigu\\OneDrive\\Desktop\\C# Practice\\Hotel\\Hotel\\Program.cs*",
-              "RelativeToolTip": "Hotel\\Program.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwEQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T12:22:07.37Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\chigu\\Hotel\\Hotel\\.gitignore",
+              "RelativeDocumentMoniker": "Hotel\\.gitignore",
+              "ToolTip": "C:\\Users\\chigu\\Hotel\\Hotel\\.gitignore",
+              "RelativeToolTip": "Hotel\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-08T12:04:01.319Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chigu\\Hotel\\Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel\\Program.cs",
+              "ToolTip": "C:\\Users\\chigu\\Hotel\\Hotel\\Program.cs",
+              "RelativeToolTip": "Hotel\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwBMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:22:07.37Z"
             }
           ]
         }
